@@ -29,6 +29,21 @@ gcc project.c -o bus_booking.exe
 bus_booking.exe
 ```
 
+
+## 🔧 Authorization inside Program ( Admin Login )
+```bash
+Username : SH233001048
+Password : maShahin
+
+Username : SH233004048
+Password : amJothy
+
+Username : SH233006048
+Password : riRiyad
+```
+
+
+
 ## Developer
 
 **Mohammad Al Shahin** is a passionate cybersecurity enthusiast and software developer from Bangladesh.  
