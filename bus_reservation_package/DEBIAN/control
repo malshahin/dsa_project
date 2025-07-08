@@ -1,0 +1,7 @@
+Package: bus-booking
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: amd64
+Maintainer: Mohammad Al Shahin <ceo@m-alshahin.com>
+Description: A C-based terminal bus ticket booking system with seat and queue management.

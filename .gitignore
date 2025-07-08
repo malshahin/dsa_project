@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+
+# Compiled binary files
+bus_booking
+bus_booking.exe
+
+# Temporary files
+*.o
+*.obj
+*.out
+*.log
+*.tmp
+
+# Backup files
+*~
+*.bak
