@@ -13,8 +13,8 @@ A terminal-based bus ticket reservation system built in C for educational and de
 
 ## 📁 Project Structure
 
-- `project.c`: Main source file
-- `Makefile`: (Optional) For building the project (you can add one if needed)
+- `bus_reservation.c`: Main source file
+- `bus_reservation_package.deb`: Package file ( You also use this as a package )
 
 ## 🔧 Compilation
 
@@ -28,3 +28,11 @@ On Windows:
 gcc project.c -o bus_booking.exe
 bus_booking.exe
 ```
+
+## Developer
+
+**Mohammad Al Shahin** is a passionate cybersecurity enthusiast and software developer from Bangladesh.  
+He specializes in building security tools, automation scripts, and open-source projects aimed at helping penetration testers and security researchers.  
+
+Connect with Mohammad:  
+[Facebook](https://facebook.com/mohammadalshahin0) | [LinkedIn](https://www.linkedin.com/in/mohammadalshahin) | Email: ceo@m-alshahin.com
