@@ -18,7 +18,7 @@ A terminal-based bus ticket reservation system built in C for educational and de
 
 ## 🔧 Compilation
 
-To compile:
+On Linux:
 ```bash
 gcc project.c -o bus_booking
 ./bus_booking
