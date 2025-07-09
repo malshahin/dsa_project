@@ -1,6 +1,6 @@
-# 🤝 Contributing to HackLab
+# 🤝 Contributing to Bus Ticket Booking System
 
-Thanks for your interest in contributing to **HackLab**, a Bash-based terminal enumeration toolkit developed by [**Mohammad Al Shahin**](https://www.linkedin.com/in/mohammadalshahin). Your contributions — big or small — help improve this tool for the entire cybersecurity community.
+Thanks for your interest in contributing to the **Bus Ticket Booking System** project! Your contributions — big or small — help improve this project and make booking bus tickets easier and more reliable for everyone.
 
 ---
 
@@ -11,63 +11,60 @@ Thanks for your interest in contributing to **HackLab**, a Bash-based terminal e
 
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/malshahin/hacklab.git
-   cd hacklab
+   git clone https://github.com/your-username/bus-ticket-booking-system.git
+   cd bus-ticket-booking-system
    ```
+
 3. **Create a new branch**
+
    ```bash
    git checkout -b your-feature-name
    ```
+   
 4. **Make your changes**
-    - Add new features or modules
-    - Fix bugs or errors
-    - Improve user interaction or performance
-    - Update packaging or documentation
+- Add new features (e.g., new booking options, improved UI)
+- Fix bugs or errors
+- Improve performance or security
+- Update documentation or user guides
 
 5. **Test your changes**
-    - Run the script: bash hacklab.sh
-    - If you're working with .deb packaging, rebuild with:
+- Run the application and verify your changes work as expected
+- Ensure no existing functionality is broken
 
-         ```bash
-         dpkg-deb --build --root-owner-group hacklab_1.0-1_all/
-         ```
-   
-7. **Commit your changes**
-   
+6. **Commit your changes**
    ```bash
    git add .
    git commit -m "Add: [feature/fix description]"
    ```
-
-7. **Push your branch**
    
+7. **Push your branch**
    ```bash
-   git push origin your-feature-name
+    git push origin your-feature-name
    ```
-- Create a Pull Request
+   
+8. **Create a Pull Request**
 - Go to your fork on GitHub
 - Click "Compare & pull request"
-- Add a clear title and explain your changes
+- Add a clear title and description explaining your changes
 
 
 ## 💡 What You Can Contribute
-- 🛠️ Enumeration modules (e.g., new tools or techniques)
-- 🐞 Bug fixes and compatibility improvements
-- 📝 Better documentation or help messages
-- 🌐 Localization or translation
-- 🧪 Script refactoring or optimization
-- 📦 Packaging updates or install automation
+- 🛠️ New features and enhancements
+- 🐞 Bug fixes and performance improvements
+- 📝 Documentation improvements and tutorials
+- 🎨 UI/UX improvements
+- 🔒 Security fixes and improvements
 
 
 ## 📌 Guidelines
-- Write clean and readable Bash code
-- Keep it modular — one function/module per task
-- Use comments to explain non-obvious parts
-- Don't include destructive commands (e.g., rm -rf)
-- Make sure it works on major Linux distros
+- Write clean, readable, and maintainable code
+- Follow existing code style and conventions
+- Document new code or features clearly
+- Test your changes thoroughly before submitting
+- Avoid destructive or unsafe commands
 
-  
 ## 🛡 Code of Conduct
+
 Please follow our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
 
 We expect all contributors to behave respectfully, collaboratively, and professionally.
@@ -77,8 +74,8 @@ We expect all contributors to behave respectfully, collaboratively, and professi
 
 This project is maintained by:
 
-**Mohammad Al Shahin**  
+[**Mohammad Al Shahin**](https://www.linkedin.com/in/mohammadalshahin)  
 📧 [ceo@m-alshahin.com](mailto:ceo@m-alshahin.com)  
 🔗 [GitHub Profile](https://github.com/malshahin)
 
-Thank you for helping make **HackLab** better for the cybersecurity and ethical hacking community! 🚀
+Thank you for helping make the **Bus Ticket Booking System** better for all users! 🚍
