@@ -2,9 +2,9 @@
 
 ## 📜 Our Pledge
 
-We as members, contributors, and maintainers of **HackLab** pledge to make participation in our project a respectful, harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, gender identity, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We as members, contributors, and maintainers of the **Bus Ticket Booking System** project pledge to make participation in our project a respectful, harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, gender identity, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-We are committed to creating a welcoming environment where all individuals feel safe and encouraged to contribute.
+We are committed to creating a welcoming environment where all individuals feel safe and encouraged to contribute to building and improving this bus ticket booking system.
 
 ---
 
@@ -15,7 +15,7 @@ Examples of behavior that contributes to a positive environment include:
 - Using welcoming and inclusive language
 - Being respectful of differing viewpoints and experiences
 - Accepting constructive feedback gracefully
-- Focusing on what is best for the community
+- Focusing on what is best for the project and its users
 - Showing empathy and kindness toward others
 
 Examples of unacceptable behavior include:
@@ -40,7 +40,7 @@ If you experience or witness unacceptable behavior, please report it to the proj
 
 **📧 ceo@m-alshahin.com**
 
-All reports will be handled confidentially.
+All reports will be handled with confidentiality and respect.
 
 ---
 
@@ -59,5 +59,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 ## 🙌 Thank You
 
-Thanks for helping us create a safe, friendly, and respectful environment for all contributors.
-
+Thank you for helping us create a safe, friendly, and respectful environment for all contributors and users of the Bus Ticket Booking System.
